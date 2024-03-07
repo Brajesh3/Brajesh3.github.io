@@ -52,8 +52,8 @@ I love open source. Learning and exploring in the realms of IT, networking, and 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brajesh-kumar-056b75277?trk=contact-info)
 
-#### Profile Views
+#### website Views
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrajesh3%2Fbrajesh3&count_bg=%23B800FF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://github.com/brajesh3)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fbrajesh3.github.io&count_bg=%23C300FF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://brajesh3.github.io)
 
 ## Jai Shree Ram
