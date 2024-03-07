@@ -15,19 +15,20 @@ I love open source. Learning and exploring in the realms of IT, networking, and 
 * 🌍  I'm based in India
 * 🧠  I'm learning Web Development
 
-<a href="https://www.github.com/Brajesh3" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/github/followers/Brajesh3?logo=github&style=for-the-badge&color=facc15&labelColor=000000"
-    alt="Brajesh3's GitHub followers"
-  />
-</a>
+<a href="https://www.github.com/Brajesh3" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Brajesh3?logo=github&style=for-the-badge&color=facc15&labelColor=000000" alt="Brajesh3's GitHub followers"/></a>
 
 ### Skills & Tools
 
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
+
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
+
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
+
 ![Markdown](https://img.shields.io/static/v1?style=for-the-badge&message=Markdown&color=FFFFFF&logo=Markdown&logoColor=000000&label=)
+
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 
 ### My GitHub Stats
