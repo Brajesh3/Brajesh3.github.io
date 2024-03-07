@@ -19,13 +19,11 @@ I love open source. Learning and exploring in the realms of IT, networking, and 
 
 ### Skills & Tools
 
-[![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
-[![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
-[![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-[![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
-[![Markdown](https://img.shields.io/static/v1?style=for-the-badge&message=Markdown&color=FFFFFF&logo=Markdown&logoColor=000000&label=)
-[![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
-
+* HTML5
+* CSS3
+* JAVASCRIPT
+* MARKDOWN
+* GIT
 ### My GitHub Stats
 
 <a href="https://www.github.com/Brajesh3"><img src="https://github-readme-stats.vercel.app/api?username=Brajesh3&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=84cc16&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="Brajesh3's GitHub stats" /></a>
