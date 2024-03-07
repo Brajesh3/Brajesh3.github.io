@@ -86,7 +86,6 @@ awesome
 ## Links
 [Link](https://duckduckgo.com/)
 
-[File in same folder as the document.](markor-markdown-reference.md) Use %20 for spaces!
 
 <!-- --------------- -->
 
