@@ -1,6 +1,6 @@
 ---
 title: Starting A Blog Hosted On Github Pages
-date: 2023-06-01 20:14 +0300
+date: 2024-03-08 00:14 +0500
 categories: [Blogging, Tutorial]
 tags: [github-pages, blog, personal blog, jekyll]
 author: tremo
