@@ -1,15 +1,10 @@
 ---
-
-## Welcome to My Blog!
-
-**Date:** 2024-03-07
-
-**Category:** Introduction
-
-**Tags:** blog, first post
-
+title: Welcome to my new blog
+date: 2024-03-08 00:14 +0500
+categories: [Blogging]
+tags: [Introduction, blog]
+author: Brajesh Kumar
 ---
-
 Hello and welcome to my new blog!
 
 I'm excited to be starting this journey and sharing my thoughts, ideas, and experiences with you all.  
