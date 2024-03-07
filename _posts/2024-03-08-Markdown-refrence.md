@@ -189,7 +189,7 @@ Relevant for creating printable pages from the document (Print / PDF).
 ## Multimedia
 
 ### Images
-![Image](file:///android_asset/img/schindelpattern.jpg)
+![Brajesh.jpg](assets/img/personal/Brajesh.jpg)
 
 ### Videos
 **Youtube** [Welcome to Upper Austria](https://www.youtube.com/watch?v=RJREFH7Lmm8)
@@ -198,14 +198,10 @@ Relevant for creating printable pages from the document (Print / PDF).
 **Peertube** [Road in the wood](https://open.tube/videos/watch/8116312a-dbbd-43a3-9260-9ea6367c72fc)
 <div><video controls><source src='https://peertube.mastodon.host/download/videos/8116312a-dbbd-43a3-9260-9ea6367c72fc-480.mp4' </source></video></div>
 
-<!-- **Local video** <div><video controls><source src='voice-parrot.mp4' </source></video></div> -->
-
 ### Audio & Music
 **Web audio** [Guifrog - Xia Yu](https://www.freemusicarchive.org/music/Guifrog/Xia_Yu)
 <audio controls src='https://files.freemusicarchive.org/storage-freemusicarchive-org/music/ccCommunity/Guifrog/Xia_Yu/Guifrog_-_Xia_Yu.mp3'></audio>
 
-**Local audio** Yellowcard - Lights up in the sky
-<audio controls src='../Music/mp3/Yellowcard/[2007]%20Paper%20Walls/Yellowcard%20-%2005%20-%20Light%20Up%20the%20Sky.mp3'></audio>
 
 ## Charts / Graphs / Diagrams (mermaidjs)
 Pie, flow, sequence, class, state, ER  
