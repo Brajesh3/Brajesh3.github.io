@@ -1,7 +1,7 @@
 ---
 title: Welcome to my new blog
 date: 2024-03-08 00:14 +0500
-categories: [Blogging]
+categories: [Blogging, Introduction]
 tags: [Introduction, blog]
 author: Brajesh Kumar
 ---
