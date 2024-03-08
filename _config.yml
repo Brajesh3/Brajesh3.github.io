@@ -38,19 +38,19 @@ social:
   email: bkcrake25+myblog@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
+    # - https://twitter.com/username # change to your twitter homepage
     - https://github.com/brajesh3 # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://in.linkedin.com/in/brajesh-kumar-056b75277
 
-google_site_verification: # fill in to your verification string
+google_site_verification: As8BHkztjB-42ljJNVZmltqMOTdSKd9qv60EsyAN9H4 # fill in to your verification string
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: # fill in your Google Analytics ID
+  id: G-V6PY62418Z # fill in your Google Analytics ID
 
 goatcounter:
   id: # fill in your Goatcounter ID
@@ -86,21 +86,21 @@ social_preview_image: # string, local or CORS resources
 toc: true
 
 comments:
-  active: # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active: giscus # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
-    repo: # <gh-username>/<repo>
+    repo: Brajesh3/brajesh3.github.io # <gh-username>/<repo>
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
-    mapping: # optional, default to 'pathname'
+    repo: Brajesh3/brajesh3.github.io # <gh-username>/<repo>
+    repo_id: R_kgDOLdJjBw
+    category: Comments
+    category_id: DIC_kwDOLdJjB84Cd0fa
+    mapping: title # optional, default to 'pathname'
     input_position: # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
     reactions_enabled: # optional, default to the value of `1`
