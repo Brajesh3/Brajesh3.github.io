@@ -5,6 +5,7 @@ categories: [Blogging, Tutorial]
 tags: [blog, markdown, tools, skills]
 author: brajesh
 math: true
+mermaid: true
 ---
 
 # Markdown Reference
