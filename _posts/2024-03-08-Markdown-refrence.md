@@ -6,6 +6,9 @@ tags: [blog, markdown, tools, skills]
 author: brajesh
 math: true
 mermaid: true
+image:
+  path: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/800px-Markdown-mark.svg.png
+  alt: Markdown logo
 ---
 
 # Markdown Reference
