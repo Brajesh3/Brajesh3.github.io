@@ -53,7 +53,7 @@ google_analytics:
   id: G-V6PY62418Z # fill in your Google Analytics ID
 
 goatcounter:
-  id: # fill in your Goatcounter ID
+  id: brajesh3 # fill in your Goatcounter ID
 
 # Prefer color scheme setting.
 #
@@ -86,7 +86,7 @@ social_preview_image: # string, local or CORS resources
 toc: true
 
 comments:
-  active: disqus # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active: giscus # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
     shortname: brajesh-kumar # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
