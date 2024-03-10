@@ -4,8 +4,6 @@ date: 2024-03-08 00:14 +0500
 categories: [Blogging, Introduction]
 tags: [Introduction, blog]
 author: brajesh3
-pin: true
-comments: true
 image:
   path: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB7oM1XOrPJbc7oGJC40ieNsTmuwT5Fn7g1iFUAQ2fmxzxScdj0l1DXrD4&s=10
   alt: Welcome to my blog
