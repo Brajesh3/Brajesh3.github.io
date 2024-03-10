@@ -50,7 +50,7 @@ I love open source. Learning and exploring in the realms of IT, networking, and 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brajesh-kumar-056b75277?trk=contact-info)
 
-#### website Views
+#### Views
 
 [![Views today/total](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fbrajesh3.github.io&count_bg=%23C300FF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://brajesh3.github.io/about/)
 
