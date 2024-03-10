@@ -3,7 +3,7 @@ title: Markdown Reference
 date: 2024-03-08 02:45 +0500
 categories: [Blogging, Tutorial]
 tags: [blog, markdown, tools, skills]
-author: brajesh
+author: brajesh3
 math: true
 mermaid: true
 image:
