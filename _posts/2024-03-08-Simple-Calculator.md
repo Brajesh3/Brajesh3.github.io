@@ -3,7 +3,7 @@ title: A Simple and User-Friendly Web Calculator
 date: 2024-03-08 03:14 +0500
 categories: [Blogging, web development]
 tags: [github-pages, blog, personal blog, project]
-author: brajesh
+author: brajesh3
 ---
 
 ## A Simple and User-Friendly Web Calculator
