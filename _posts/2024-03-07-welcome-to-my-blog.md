@@ -3,7 +3,7 @@ title: Welcome to my blog
 date: 2024-03-08 00:14 +0500
 categories: [Blogging, Introduction]
 tags: [Introduction, blog]
-author: brajesh
+author: brajesh3
 pin: true
 comments: true
 image:
