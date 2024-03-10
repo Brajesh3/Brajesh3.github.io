@@ -1,8 +1,22 @@
-brajesh:
+
+## Template › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md#setting-author-url
+# -------------------------------------
+# {author_id}:
+#   name: {full name}
+#   twitter: {twitter_of_author}
+#   url: {homepage_of_author}
+# -------------------------------------
+
+cotes:
+  name: Cotes Chung
+  twitter: cotes2020
+  url: https://github.com/cotes2020/
+
+sille_bille:
+  name: Dinesh Prasanth Moluguwan Krishnamoorthy
+  twitter: dinesh_MKD
+  url: https://github.com/SilleBille/
+
+brajesh3:
   name: Brajesh Kumar
-  github: brajesh3
-  url: https://www.linkedin.com/in/brajesh-kumar-056b75277
-tremo:
-  name: Ahmed Tremo
-  twitter: tremooo
-  url: https://www.linkedin.com/in/ahmedtremo/
+  url: https://github.com/Brajesh3/
