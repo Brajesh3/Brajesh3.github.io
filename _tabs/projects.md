@@ -1,5 +1,5 @@
 ---
-layout: My Projects
+layout: projects
 icon: fa fa-tasks
-order: 5
+order: 4
 ---
