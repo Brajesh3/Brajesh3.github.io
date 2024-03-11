@@ -14,12 +14,12 @@ timezone: Asia/Kolkata
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Brajesh Personal Blog # the main title
+title: Brajesh Kumar # the main title
 
-tagline: Web Developer & Learner # it will display as the sub-title
+tagline: My Personal Blog # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Welcome to Brajesh's Blog – where tech meets randomness and every post is a surprise! Join me for a whirlwind of discoveries and unexpected finds. Fasten your seatbelt and dive into the adventure!
+  Welcome to Brajesh Kumar's Blog – where tech meets randomness and every post is a surprise! Join me for a whirlwind of discoveries and unexpected finds. Fasten your seatbelt and dive into the adventure!
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
