@@ -20,7 +20,7 @@ platforms:
   
   - type: WhatsApp
     icon: "fab fa-whatsapp"
-    link: "https://api.whatsapp.com/send?text=Check out this post: TITLE - URL"  # Opens WhatsApp chat with pre-filled message
+    link: "https://api.whatsapp.com/send?text=TITLE - URL"  # Opens WhatsApp chat with pre-filled message
 
 
   # Uncomment below if you need to.
