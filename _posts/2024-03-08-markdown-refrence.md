@@ -7,7 +7,7 @@ author: brajesh3
 math: true
 mermaid: true
 image:
-  path: assets/img/2024-03-08-markdown-refrence/markdown-guide-og.jpg
+  path: assets/img/2024-03-08-markdown-refrence/markdown-guide-og.webp
   alt: Markdown logo
 ---
 
@@ -193,7 +193,7 @@ Relevant for creating printable pages from the document (Print / PDF).
 ## Multimedia
 
 ### Images
-![Markdown logo](assets/img/2024-03-08-markdown-refrence/markdown-guide-og.jpg)
+![Markdown logo](assets/img/2024-03-08-markdown-refrence/markdown-guide-og.webp){:width="600" height="307" }_Markdown logo_
 
 ### Videos
 **Youtube** [Welcome to Upper Austria](https://www.youtube.com/watch?v=RJREFH7Lmm8)

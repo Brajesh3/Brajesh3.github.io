@@ -5,7 +5,7 @@ categories: [Blogging, web development]
 tags: [github-pages, blog, personal blog, project]
 author: brajesh3
 image:
-  path: assets/img/2024-03-08-simple-calculator/calculator.png
+  path: assets/img/2024-03-08-simple-calculator/calculator.webp
   alt: Calculator Icon
 ---
 

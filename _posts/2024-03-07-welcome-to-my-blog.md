@@ -5,7 +5,7 @@ categories: [Introduction]
 tags: [introduction, blog, brajesh3]
 author: brajesh3
 image:
-  path: assets/img/2024-03-07-welcome-to-my-blog/Welcome_to_my_blog.jpeg
+  path: assets/img/2024-03-07-welcome-to-my-blog/Welcome_to_my_blog.webp
   alt: Welcome to my blog
 ---
 
