@@ -13,6 +13,15 @@ platforms:
   - type: Telegram
     icon: "fab fa-telegram"
     link: "https://t.me/share/url?url=URL&text=TITLE"
+    
+  #  - type: Instagram
+  #    icon: "fab fa-instagram"
+  #    link: "https://www.instagram.com/your_username/"  # Replace with your username
+  
+  - type: WhatsApp
+    icon: "fab fa-whatsapp"
+    link: "https://api.whatsapp.com/send?text=Check out this post: TITLE - URL"  # Opens WhatsApp chat with pre-filled message
+
 
   # Uncomment below if you need to.
   
