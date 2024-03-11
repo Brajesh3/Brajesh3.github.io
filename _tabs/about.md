@@ -6,7 +6,6 @@ order: 5
 
 Hi ![hand_guesture](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brajesh Kumar
 ===============================================================================================================================
-![Brajesh.jpg](assets/img/personal/Brajesh.jpg)
 
 Web Developer & learner
 -----------------------
@@ -55,3 +54,5 @@ I love open source. Learning and exploring in the realms of IT, networking, and 
 [![Views today/total](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fbrajesh3.github.io&count_bg=%23C300FF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://brajesh3.github.io/about/)
 
 # Jai Shree Ram
+
+![Brajesh-Kumar.jpg](assets/img/personal/Brajesh-Kumar.jpg)
