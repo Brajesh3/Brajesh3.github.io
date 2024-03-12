@@ -55,4 +55,4 @@ I love open source. Learning and exploring in the realms of IT, networking, and 
 
 # Jai Shree Ram
 
-![Brajesh Kumar](assets/img/personal/Brajesh-Kumar.png){:style="max-width: 100%; height: auto;"}_Brakesh Kumar_
+![Brajesh Kumar](assets/img/personal/Brajesh-Kumar.png){:style="width: 100%; aspect-ratio: attr(img-natural-width) / attr(img-natural-height);"}_Brakesh Kumar_
