@@ -196,8 +196,8 @@ Relevant for creating printable pages from the document (Print / PDF).
 ![Markdown logo](assets/img/2024-03-08-markdown-refrence/markdown-guide-og.webp){:width="600" height="307" }_Markdown logo_
 
 ### Videos
-**Youtube** [Welcome to Upper Austria](https://www.youtube.com/watch?v=RJREFH7Lmm8)
-<iframe width='360' height='200' src='https://www.youtube.com/embed/RJREFH7Lmm8'> </iframe>
+
+{% include embed/youtube.html id='RJREFH7Lmm8' %}
 
 **Peertube** [Road in the wood](https://open.tube/videos/watch/8116312a-dbbd-43a3-9260-9ea6367c72fc)
 <div><video controls><source src='https://peertube.mastodon.host/download/videos/8116312a-dbbd-43a3-9260-9ea6367c72fc-480.mp4' </source></video></div>
