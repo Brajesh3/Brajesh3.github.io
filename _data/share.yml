@@ -32,10 +32,11 @@ platforms:
   - type: Weibo
     icon: "fab fa-weibo"
     link: "https://service.weibo.com/share/share.php?title=TITLE&url=URL"
+    
+  # See: https://github.com/justinribeiro/share-to-mastodon#properties
   
   - type: Mastodon
     icon: "fa-brands fa-mastodon"
-  # See: https://github.com/justinribeiro/share-to-mastodon#properties
     instances:
      - label: mastodon.social
        link: "https://mastodon.social/"
