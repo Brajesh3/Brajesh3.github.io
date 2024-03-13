@@ -68,6 +68,18 @@ goatcounter:
 #
 theme_mode: # [light | dark]
 
+Features:
+  # Enable comments (optional)
+  # comments: true
+
+  # Enable WebP image conversion (optional)
+  webp:
+    enabled: true
+    quality: 80  # Adjusted quality
+    source:
+      - "assets/img/*"
+    destination: " "
+
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
 # will be added to all image (site avatar & posts' images) paths starting with '/'
