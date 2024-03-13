@@ -68,6 +68,34 @@ goatcounter:
 #
 theme_mode: # [light | dark]
 
+    # Uncomment below to add more social links
+    # - https://www.facebook.com/username
+    - https://in.linkedin.com/in/brajesh-kumar-056b75277
+
+google_site_verification: As8BHkztjB-42ljJNVZmltqMOTdSKd9qv60EsyAN9H4 # fill in to your verification string
+
+# ↑ --------------------------
+# The end of `jekyll-seo-tag` settings
+
+google_analytics:
+  id: G-V6PY62418Z # fill in your Google Analytics ID
+
+goatcounter:
+  id: brajesh3 # fill in your Goatcounter ID
+
+# Prefer color scheme setting.
+#
+# Note: Keep empty will follow the system prefer color by default,
+# and there will be a toggle to switch the theme between dark and light
+# on the bottom left of the sidebar.
+#
+# Available options:
+#
+#     light  - Use the light color scheme
+#     dark   - Use the dark color scheme
+#
+theme_mode: # [light | dark]
+
 Features:
   # Enable comments (optional)
   # comments: true
@@ -77,9 +105,30 @@ Features:
     enabled: true
     quality: 80  # Adjusted quality
     source:
-     - "!**/favicons/**"  # Exclude all files and subfolders within 'favicon'
-    - "assets/img/**"  # Include all subfolders within 'assets/img'
+      - "!**/favicons/**"  # Exclude all files and subfolders within 'favicon'
+      - "assets/img/**"  # Include all subfolders within 'assets/img'
     destination: "_site/images/webp"
+
+# The CDN endpoint for images.
+# Notice that once it is assigned, the CDN url
+# will be added to all image (site avatar & posts' images) paths starting with '/'
+#
+# e.g. 'https://cdn.com'
+img_cdn: 
+
+# the avatar on sidebar, support local or CORS resources
+avatar: /assets/img/personal/Brajesh.webp
+
+# The URL of the site-wide social preview image used in SEO `og:image` meta tag.
+# It can be overridden by a customized `page.image` in front matter.
+social_preview_image: # string, local or CORS resources
+
+# boolean type, the global switch for TOC in posts.
+toc: true
+
+comments:
+  active: disqus # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  # The active options are as follows:
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
