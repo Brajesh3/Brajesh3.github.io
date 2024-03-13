@@ -5,7 +5,7 @@ source "https://rubygems.org"
 gem "jekyll-theme-chirpy", "~> 6.5", ">= 6.5.2"
 
 # Add jekyll-webp here
-gem 'jekyll-webp'
+gem "jekyll-webp"
 
 group :test do
   gem "html-proofer", "~> 4.4"
