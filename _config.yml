@@ -77,8 +77,9 @@ Features:
     enabled: true
     quality: 80  # Adjusted quality
     source:
-      - "assets/img/*"
-    destination: " "
+     - "!**/favicons/**"  # Exclude all files and subfolders within 'favicon'
+    - "assets/img/**"  # Include all subfolders within 'assets/img'
+    destination: "_site/images/webp"
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
