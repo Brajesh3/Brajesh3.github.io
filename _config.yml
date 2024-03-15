@@ -68,10 +68,6 @@ goatcounter:
 #
 theme_mode: # [light | dark]
 
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    - https://in.linkedin.com/in/brajesh-kumar-056b75277
-
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
 # will be added to all image (site avatar & posts' images) paths starting with '/'
