@@ -5,7 +5,7 @@ categories: [Privacy & Security, Browser]
 tags: [privacy, security, android, browser, brave]
 author: brajesh3
 image:
-  path: assets/img/title/privacy-focused-mobile-browser/Brave-logo-color-RGB_reversed.svg
+  path: assets/img/title/Privacy-focused-mobile-browser/Brave-logo-color-RGB_reversed.svg
   alt: Brave Browser Icon
 ---
 
