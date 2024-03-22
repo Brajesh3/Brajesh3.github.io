@@ -44,7 +44,7 @@ social:
     # - https://www.facebook.com/username
     - https://in.linkedin.com/in/brajesh-kumar-056b75277
 
-google_site_verification: As8BHkztjB-42ljJNVZmltqMOTdSKd9qv60EsyAN9H4 # fill in to your verification string
+google_site_verification:  # fill in to your verification string
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
