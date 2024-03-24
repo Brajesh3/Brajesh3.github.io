@@ -15,8 +15,16 @@
   icon: "fas fa-rss"
   noblank: true
 
-# - type: twitter
-#   icon: "fa-brands fa-x-twitter"
+- type: twitter
+  icon: "fa-brands fa-x-twitter"
+
+# - type: facebook
+#   icon: "fab fa-facebook"
+#   url: "https://www.facebook.com/your_username"                  # Fill with your Facebook profile URL
+
+- type: instagram
+  icon: "fab fa-instagram"
+  url: "https://www.instagram.com/brajesh_kr3"                  # Fill with your Instagram profile URL
 
 
 # Uncomment and complete the url below to enable more contact options
@@ -28,4 +36,4 @@
 #
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
-#   url:  ''                  # Fill with your stackoverflow homepage
+#   url:  ''                  # Fill with your stackoverflow 
