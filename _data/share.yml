@@ -13,28 +13,25 @@ platforms:
   - type: Telegram
     icon: "fab fa-telegram"
     link: "https://t.me/share/url?url=URL&text=TITLE"
-    
+
   #  - type: Instagram
   #    icon: "fab fa-instagram"
   #    link: "https://www.instagram.com/your_username/"  # Replace with your username
-  
+
   - type: WhatsApp
     icon: "fab fa-whatsapp"
     link: "https://api.whatsapp.com/send?text=TITLE - URL"  # Opens WhatsApp chat with pre-filled message
 
-
-  # Uncomment below if you need to.
-  
   - type: Linkedin
     icon: "fab fa-linkedin"
     link: "https://www.linkedin.com/sharing/share-offsite/?url=URL"
-  
+
   - type: Weibo
     icon: "fab fa-weibo"
     link: "https://service.weibo.com/share/share.php?title=TITLE&url=URL"
-    
+
   # See: https://github.com/justinribeiro/share-to-mastodon#properties
-  
+
   - type: Mastodon
     icon: "fa-brands fa-mastodon"
     instances:
@@ -46,3 +43,11 @@ platforms:
        link: "https://fosstodon.org/"
      - label: photog.social
        link: "https://photog.social/"
+
+  - type: Reddit
+    icon: "fab fa-reddit"
+    link: "https://www.reddit.com/submit?url=URL&title=TITLE"
+
+  - type: Pinterest
+    icon: "fab fa-pinterest"
+    link: "https://pinterest.com/pin/create/button/?url=URL&description=TITLE"
