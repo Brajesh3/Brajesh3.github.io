@@ -32,8 +32,8 @@ This web-based calculator requires no installation. Simply open the `index.html`
 
 ## Images
 
-![light mode only](assets/img/2024-03-08-simple-calculator/calculator-light.webp){: .light .w-75 .shadow .rounded-10 w='1484' h='720' }_Calculator light mode_
-![dark mode only](assets/img/2024-03-08-simple-calculator/calculator-dark.webp){: .dark .w-75 .shadow .rounded-10 w='1483' h='720' }_calculator dark mode_
+![light mode only](assets/img/2024-03-08-simple-calculator/calculator-light.webp){: .light .w-75 .shadow .rounded-10 w='1484' h='720' }
+![dark mode only](assets/img/2024-03-08-simple-calculator/calculator-dark.webp){: .dark .w-75 .shadow .rounded-10 w='1483' h='720' }
 
-![light mode only](assets/img/2024-03-08-simple-calculator/calculator-light-history.webp){: .light .w-75 .shadow .rounded-10 w='1483' h='720' }_Calculator history light mode_
-![dark mode only](assets/img/2024-03-08-simple-calculator/calculator-dark-history.webp){: .dark .w-75 .shadow .rounded-10 w='1483' h='720' }_Calculator history dark mode_
+![light mode only](assets/img/2024-03-08-simple-calculator/calculator-light-history.webp){: .light .w-75 .shadow .rounded-10 w='1483' h='720' }
+![dark mode only](assets/img/2024-03-08-simple-calculator/calculator-dark-history.webp){: .dark .w-75 .shadow .rounded-10 w='1483' h='720' }
