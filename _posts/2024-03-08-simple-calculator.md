@@ -1,12 +1,11 @@
 ---
 title: A Simple and User-Friendly Web Calculator
-date: 2024-03-08 03:14 +0500
-categories: [Blogging, web development]
-tags: [github-pages, blog, personal blog, project]
+date: 2024-03-08 03:14 +0530
+categories: [Web development, Simple Calculator]
+tags: [github-pages, projects, web tools, calculator]
 author: brajesh3
 image:
   path: assets/img/2024-03-08-simple-calculator/calculator.webp
-  lqip: data:image/webp;base64,UklGRmIDAABXRUJQVlA4WAoAAAA4AAAADwAABwAASUNDUBgCAAAAAAIYAAAAAAIQAABtbnRyUkdCIFhZWiAAAAAAAAAAAAAAAABhY3NwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAAAHRyWFlaAAABZAAAABRnWFlaAAABeAAAABRiWFlaAAABjAAAABRyVFJDAAABoAAAAChnVFJDAAABoAAAAChiVFJDAAABoAAAACh3dHB0AAAByAAAABRjcHJ0AAAB3AAAADxtbHVjAAAAAAAAAAEAAAAMZW5VUwAAAFgAAAAcAHMAUgBHAEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFhZWiAAAAAAAABvogAAOPUAAAOQWFlaIAAAAAAAAGKZAAC3hQAAGNpYWVogAAAAAAAAJKAAAA+EAAC2z3BhcmEAAAAAAAQAAAACZmYAAPKnAAANWQAAE9AAAApbAAAAAAAAAABYWVogAAAAAAAA9tYAAQAAAADTLW1sdWMAAAAAAAAAAQAAAAxlblVTAAAAIAAAABwARwBvAG8AZwBsAGUAIABJAG4AYwAuACAAMgAwADEANlZQOEx0AAAALw/AARBnoKBtFGjHKxIz6MEhThQEAIHo5v8gw9Q0kgLdHZ8LevzbwAgWqOY/ANjvAAkBpJczvVJDeylLJ6PvgQBGkSQp6t/ugUkWwAJYALthblcHGiL6PwsAAAAYyJUE+KL/q/peAW8mZSnBi14ci6cZrgtFWElGUAAAAE1NACoAAAAIAAQBAAAEAAAAAQAAAAABAQAEAAAAAQAAAACHaQAEAAAAAQAAAD4BEgAEAAAAAQAAAAAAAAAAAAGSCAAEAAAAAQAAAAAAAAAARVhJRlAAAABNTQAqAAAACAAEAQAABAAAAAEAAAAAAQEABAAAAAEAAAAAh2kABAAAAAEAAAA+ARIABAAAAAEAAAAAAAAAAAABkggABAAAAAEAAAAAAAAAAA==
   alt: Calculator Icon
 ---
 
@@ -30,3 +29,18 @@ This calculator proves to be an invaluable tool for various scenarios, including
 ## Getting Started
 
 This web-based calculator requires no installation. Simply open the `index.html` file in your preferred web browser to begin using it.
+
+## Images
+1. User Interface
+![light mode only](assets/img/2024-03-08-simple-calculator/calculator-light.webp){: .light .w-75 .shadow .rounded-10 w='1484' h='720' }
+![dark mode only](assets/img/2024-03-08-simple-calculator/calculator-dark.webp){: .dark .w-75 .shadow .rounded-10 w='1483' h='720' }
+
+![light mode only](assets/img/2024-03-08-simple-calculator/calculator-dark.webp){: .light .w-75 .shadow .rounded-10 w='1484' h='720' }
+![dark mode only](assets/img/2024-03-08-simple-calculator/calculator-light.webp){: .dark .w-75 .shadow .rounded-10 w='1483' h='720' }
+
+2. History
+![light mode only](assets/img/2024-03-08-simple-calculator/calculator-light-history.webp){: .light .w-75 .shadow .rounded-10 w='1483' h='720' }
+![dark mode only](assets/img/2024-03-08-simple-calculator/calculator-dark-history.webp){: .dark .w-75 .shadow .rounded-10 w='1483' h='720' }
+
+![light mode only](assets/img/2024-03-08-simple-calculator/calculator-dark-history.webp){: .light .w-75 .shadow .rounded-10 w='1483' h='720' }
+![dark mode only](assets/img/2024-03-08-simple-calculator/calculator-light-history.webp){: .dark .w-75 .shadow .rounded-10 w='1483' h='720' }

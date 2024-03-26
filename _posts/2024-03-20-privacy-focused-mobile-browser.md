@@ -5,7 +5,7 @@ categories: [Privacy & Security, Browser]
 tags: [privacy, security, android, browser, brave]
 author: brajesh3
 image:
-  path: assets/img/title/Privacy-focused-mobile-browser/Brave-logo-color-RGB_reversed.svg
+  path: assets/img/2024-03-20-privacy-focused-mobile-browser/brave.webp
   alt: Brave Browser Icon
 ---
 
@@ -42,6 +42,7 @@ In today's digital landscape, prioritizing privacy and security when selecting a
    - Disable non-proxied UDP under WebRTC IP handling policy.
    - Uncheck options related to privacy-invasive analytics and diagnostic reports.
  5. **Make UI Clutter Free**
-    - visit `chrome://flags/#native-brave-wallet` & disable it
+   - visit `chrome://flags/#native-brave-wallet` & disable it
+  ![Brave flags Setting](assets/img/2024-03-20-privacy-focused-mobile-browser/brave-flags.webp)_brave flags_
 
 By configuring Brave Browser according to these recommendations, users can enjoy a secure and privacy-respecting browsing experience on their Android devices. Additionally, Brave Sync ensures seamless data synchronization across multiple devices while prioritizing user privacy through end-to-end encryption.
