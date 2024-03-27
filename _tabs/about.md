@@ -47,6 +47,7 @@ I love open source. Learning and exploring in the realms of IT, networking, and 
 [![Mastodon](https://img.shields.io/badge/Mastodon-Follow-2b90d9?style=for-the-badge&logo=mastodon)](https://mastodon.social/@Looter_)
 [![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=61557443233953)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp_Business-Message-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/message/XBTFDGX3EIQYA1)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@brajesh_kr3?sub_confirmation=1)
 
 ------------------------------
 ## 👀 Profile Views

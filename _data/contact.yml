@@ -37,3 +37,7 @@
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow 
+
+- type: youtube
+  icon: "fab fa-youtube"
+  url: "https://www.youtube.com/@brajesh_kr3?sub_confirmation=1"                  # Fill with your YouTube channel URL
