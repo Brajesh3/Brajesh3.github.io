@@ -41,10 +41,12 @@ I love open source. Learning and exploring in the realms of IT, networking, and 
 
 ---------------------------
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)_Linkedin_](https://www.linkedin.com/in/brajesh-kumar-056b75277)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-ff69b4?style=for-the-badge&logo=instagram)_Instagram_](https://www.instagram.com/brajesh_kr3)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)_X formerly(twitter)_](https://www.twitter.com/Brajesh_kr3)
-[![Mastodon](https://img.shields.io/badge/Mastodon-Follow-2b90d9?style=for-the-badge&logo=mastodon)_Mastodon_](https://mastodon.social/@Looter_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brajesh-kumar-056b75277)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-ff69b4?style=for-the-badge&logo=instagram)](https://www.instagram.com/brajesh_kr3)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://www.twitter.com/Brajesh_kr3)
+[![Mastodon](https://img.shields.io/badge/Mastodon-Follow-2b90d9?style=for-the-badge&logo=mastodon)](https://mastodon.social/@Looter_)
+[![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=61557443233953)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp_Business-Message-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/message/XBTFDGX3EIQYA1)
 
 ------------------------------
 ## 👀 Profile Views
