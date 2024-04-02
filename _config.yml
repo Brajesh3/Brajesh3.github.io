@@ -19,11 +19,13 @@ title: Brajesh Kumar # the main title
 tagline: My Personal Blog # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Welcome to Brajesh Kumar's Blog – where tech meets randomness and every post is a surprise! Join me for a whirlwind of discoveries and unexpected finds. Fasten your seatbelt and dive into the adventure!
+  Brajesh Kumar: Tech, Privacy & Software Guru (Bihar, India)
+
+Master tech, secure your digital life, & conquer software with Brajesh!
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://brajesh.site"
+url: "https://www.brajesh.site"
 
 github:
   username: Brajesh3 # change to your github username
@@ -44,6 +46,8 @@ social:
     - https://www.facebook.com/profile.php?id=61557443233953
     - https://in.linkedin.com/in/brajesh-kumar-056b75277
     - https://www.instagram.com/brajesh_kr3
+    - https://m.youtube.com/@brajesh_kr3?sub_confirmation=1
+    - https://mastodon.social/@looter_
 
 google_site_verification:  # fill in to your verification string
 
