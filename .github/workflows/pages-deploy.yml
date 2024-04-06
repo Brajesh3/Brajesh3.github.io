@@ -42,14 +42,11 @@ jobs:
         run: bundle exec jekyll build
 
   deploy:
-    environment:
-      name: cloudflare-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
-      - name: Deploy to Cloudflare Pages
-        uses: cloudflare/wrangler-action@v3
-        with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          script: "wrangler publish"
+  runs-on: ubuntu-latest
+  needs: build
+  steps:
+    - name: Deploy to Cloudflare Pages
+      uses: cloudflare/wrangler-action@v3
+      with:
+        apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        command: "publish"
