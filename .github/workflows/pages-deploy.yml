@@ -46,8 +46,4 @@ jobs:
     needs: build
     steps:
       - name: Deploy to Cloudflare Pages
-        uses: cloudflare/wrangler-action@v3
-        with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          script: "wrangler publish"
-          quiet: false
+        run: npx wrangler publish --apiToken ${{ secrets.CLOUDFLARE_API_TOKEN }} --entry-point public
