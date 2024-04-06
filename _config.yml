@@ -18,10 +18,11 @@ title: Brajesh Kumar # the main title
 
 tagline: My Personal Blog # it will display as the sub-title
 
-description: >- # used by seo meta and the atom feed
+description: >- 
+  # used by seo meta and the atom feed
   Brajesh Kumar: Tech, Privacy & Software Guru (Bihar, India)
 
-Master tech, secure your digital life, & conquer software with Brajesh!
+  Master tech, secure your digital life, & conquer software with Brajesh!
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
