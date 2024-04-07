@@ -26,7 +26,7 @@ description: >-
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://www.brajesh.site"
+url: "https://brajesh.site"
 
 github:
   username: Brajesh3 # change to your github username
